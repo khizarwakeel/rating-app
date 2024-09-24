@@ -58,9 +58,10 @@ body {
     content: '\f005';
     font-family: FontAwesome;
     margin: 5px;
-    font-size: 1.5rem;
+    font-size: 4rem;
     display: inline-block;
     cursor: pointer;
+    margin-top: 10px;
 }
 
 .rating>.half::before {
